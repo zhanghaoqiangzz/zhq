@@ -1,0 +1,36 @@
+/*头部样式*/
+.img_header
+{
+    width: 100%;
+    height: 100%;
+    line-height: 100px;
+    background-image: url("../img/bacground.png");
+    background-size: 100%;
+    overflow: hidden;
+    /*font-size:;*/
+}
+.center
+{
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+}
+.center .logo_img
+{
+    float: left;
+    margin-top: 1%;
+}
+.floatRight
+{
+    width: 200px;
+    height: 80px;
+    margin-right: 2%;
+    margin-top: 10px;
+    float: right;
+}
+.floatRight li
+{
+    list-style: none;
+    float: left;
+    margin-left: 13%;
+}
