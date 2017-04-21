@@ -1,0 +1,9 @@
+
+ 登录：
+1.接口 登录校验
+2.URL :http://172.27.35.11/login.php?username=zhangsan&&password=123
+3.请求方式：GET
+4.参数：username，password
+5.返回结果
+	成功返回：{"n_id":"1","username":"zhangsan","password":"123","displayname":"\u5f20\u4e09"}
+	失败返回：0；
